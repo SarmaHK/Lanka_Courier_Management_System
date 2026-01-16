@@ -134,22 +134,18 @@ Optional web or API layer
 Visual overview of the application interface and core workflows.
 
 🔐 Authentication
-<img width="1919" height="1024" alt="image" src="https://github.com/user-attachments/assets/8052c953-79ea-49ae-9b9f-33c21565f67c" />
-
+<img alt="Authentication" src="https://raw.githubusercontent.com/SarmaHK/Lanka_Courier_Management_System/main/screenshots/Authentication.png" />
 
 📊 Dashboard
-<img width="1919" height="1020" alt="image" src="https://github.com/user-attachments/assets/3b31cb32-a85e-48a7-b945-5c7489b01001" />
-<img width="1349" height="989" alt="image" src="https://github.com/user-attachments/assets/9d1b83a9-51ad-462c-94cc-4e0ca81c160e" />
-
+<img alt="dashboard" src="https://raw.githubusercontent.com/SarmaHK/Lanka_Courier_Management_System/main/screenshots/dashboard.png" />
 
 📦 Parcel Management
-<img width="1919" height="957" alt="image" src="https://github.com/user-attachments/assets/27e8d8d0-b960-4baa-9d43-ff2f24776483" />
-<img width="1913" height="1022" alt="image" src="https://github.com/user-attachments/assets/4a3927a7-fc11-4418-8b4d-a493060daf78" />
+<img alt="Parcel Management" src="https://raw.githubusercontent.com/SarmaHK/Lanka_Courier_Management_System/main/screenshots/Parcel Management.png" />
+<img alt="Register" src="https://raw.githubusercontent.com/SarmaHK/Lanka_Courier_Management_System/main/screenshots/Register.png" />
 
 
 🏢 Branch Management
-<img width="1919" height="1019" alt="image" src="https://github.com/user-attachments/assets/f70c4cff-f7fa-4916-9cd8-30a435fc3b3d" />
-
+<img alt="Branch" src="https://raw.githubusercontent.com/SarmaHK/Lanka_Courier_Management_System/main/screenshots/Branch.png" />
 
 📄 License
 This project is licensed under the MIT License.
