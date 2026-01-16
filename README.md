@@ -137,7 +137,7 @@ Visual overview of the application interface and core workflows.
 <img alt="Authentication" src="https://raw.githubusercontent.com/SarmaHK/Lanka_Courier_Management_System/main/screenshots/Authentication.png" />
 
 📊 Dashboard
-<img alt="dashboard" src="https://raw.githubusercontent.com/SarmaHK/Lanka_Courier_Management_System/main/screenshots/dashboard.png" />
+<img alt=Dashboard" src="https://raw.githubusercontent.com/SarmaHK/Lanka_Courier_Management_System/main/screenshots/Dashboard.png" />
 
 📦 Parcel Management
 <img alt="Parcel Management" src="https://raw.githubusercontent.com/SarmaHK/Lanka_Courier_Management_System/main/screenshots/Parcel Management.png" />
